@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig>
-  <Tracking>
-    <ImageTarget name="QR_water" size="1.000000 1.000000" />
-    <ImageTarget name="QR_milk" size="1.000000 1.000000" />
-    <ImageTarget name="QR_milkfoam" size="1.000000 1.000000" />
-    <ImageTarget name="QR_espresso" size="1.000000 1.000000" />
-  </Tracking>
-</QCARConfig>

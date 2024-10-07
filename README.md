@@ -4,13 +4,20 @@ Coffee Guru presents an affordable, accessible, and interactive way to master th
 
 ## Features
 Marker-based AR Integration: Uses QR-coded cards as AR markers to initiate the learning experience.
+
 Interactive 3D Content: 3D models of coffee ingredients are displayed when QR markers are scanned.
+
 Voice Recognition Support: Uses built-in Unity speech recognition to further enhance the user experience.
+
 Affordable and Accessible: Requires only a webcam and four printed cards, making it highly accessible and easy to use.
 
 ## Technologies Used
 Unity Game Engine: The core game development platform.
+
 Vuforia AR SDK: Used for image recognition, tracking, and AR integration.
+
 C# Scripting: For game logic and interactivity.
+
 Adobe Photoshop: For designing QR cards.
+
 UnityEngine.Windows.Speech: For implementing voice recognition functionality.
